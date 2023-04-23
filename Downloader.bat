@@ -1,3 +1,4 @@
+:: THIS CAN BE FLAGGED BY SOME ANTIVIRUSES FOR SOME REASON
 @echo off
 echo Please paste in your exploit path (example: C:\SynapseX)
 set /p executor=Path:
